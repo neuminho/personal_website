@@ -1,0 +1,1 @@
+Simple website created with plain html/css/js.
