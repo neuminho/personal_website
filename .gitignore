@@ -1,0 +1,9 @@
+# fonts
+*.eot
+*.svg
+*.ttf
+*.woff
+*.woff2
+
+# other
+*.DS_Store
