@@ -1,9 +1,11 @@
 var options = [
+	'Data Scientist',
 	'Consultant',
 	'Entrepreneur', 
 	'Coffee Drinker', 
-	'Data Scientist',
+	'Developer',
 	'Strategist',
+	'Engineer',
 ];
 
 function arrayRemove(arr, value) {
