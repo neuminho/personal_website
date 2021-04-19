@@ -1,1 +1,1 @@
-Simple website created with plain html/css/js.
+Simple website created with plain html/css/js. Check out the hosted version [here](https://daviddillmann.com/). 
